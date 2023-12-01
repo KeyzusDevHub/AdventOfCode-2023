@@ -52,7 +52,6 @@ int main(){
                 it = numbers.begin();
             }
         }
-        std::cout << first << last << std::endl;
         sum += first * 10 + last;
     }
     std::cout << sum << std::endl;
